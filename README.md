@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='parstagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Parstagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
